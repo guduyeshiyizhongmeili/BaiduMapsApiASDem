@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-22.2.1_f4eb3a926bf5a9b1dbc826305516d2384895f60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3cd38f393d430fdce557d5d7e0ef2d85e89663fa">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\release\BaiduLBS_Android_8f93e49a2e7b759b0c31147cef51995be01557fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\studio\androidsdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_5bb0271c424b69cafab083f6db9b91d518458863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3cd38f393d430fdce557d5d7e0ef2d85e89663fa">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_8f93e49a2e7b759b0c31147cef51995be01557fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_f4eb3a926bf5a9b1dbc826305516d2384895f60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-22.2.1_3acf25623d6c56d967b9e5510ef6ac477d92eac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d3d1f4b44a802fd2bf31a8f00df25a01dfdd2888">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ba21f2b78d914a98df3e883983e832d55e8d773d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_4b9c5cf692afabe63339c934ca23c89211a82eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\release\internal_impl-22.2.1_4b9c5cf692afabe63339c934ca23c89211a82eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\studio\androidsdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\release\support-annotations-22.2.1_5bb0271c424b69cafab083f6db9b91d518458863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_3acf25623d6c56d967b9e5510ef6ac477d92eac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dbaec2d78af0183d02f8c14518906c04136d1859">
+        <dex dex="D:\AndroidHL\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\instant-run_c2693a0fedf047f12501a284eff3e5c1aabceaab.jar" />
+    </item>
+
+</items>
